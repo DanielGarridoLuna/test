@@ -1,9 +1,10 @@
 // Initialize Cloud Firestore through Firebase
 firebase.initializeApp({
-    apiKey: "AIzaSyDzwZ4i_gGZyF87bI2NCOGdKMExDre07bs",
-    authDomain: "piel-26fab.firebaseapp.com",
-    projectId: "piel-26fab",
-    storageBucket: "piel-26fab.appspot.com",
-    messagingSenderId: "127677703957",
-    appId: "1:127677703957:web:56cadf112c0c67cca72b1c"
+    apiKey: "AIzaSyDmwo-ZSsKB_VL8Kljdzd4Gnw5mjVg9dUU",
+    authDomain: "taller-aad05.firebaseapp.com",
+    databaseURL: "https://taller-aad05-default-rtdb.firebaseio.com",
+    projectId: "taller-aad05",
+    storageBucket: "taller-aad05.appspot.com",
+    messagingSenderId: "150608804946",
+    appId: "1:150608804946:web:a872b895f9738537c8738b"
 });
